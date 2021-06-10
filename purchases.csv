@@ -1,0 +1,5 @@
+SKU,Vendor Order ID,Vendor Sku,Date,Vendor,Cost,Quantity
+MG-01,B55,01,05/01/2021,BobTools,50,5
+MG-02,B61,02,05/02/2021,BobTools,45,3
+MG-SKY,M32,SKY,06/02/2021,MelsShed,30,2
+,,,j,,,
